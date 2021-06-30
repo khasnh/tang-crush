@@ -7,5 +7,5 @@ const CONFIG = {
     btnYes: 'đuơng nhiên là em trai của anh roi`',
     btnNo: 'hmmmm chj Chi',
     question:'zời ơi shao lại chọn iem :v',
-    btnReply: 'gửi',
+    btnReply: 'gửi cho iem',
     reply: 'vì chỉ có em mới  cho anh hạnh phúc <3'
